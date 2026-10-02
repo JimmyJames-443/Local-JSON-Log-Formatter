@@ -1,0 +1,25 @@
+{
+  "name": "log_fmt",
+  "version": "1.0.0",
+  "description": "A fast, cross-platform CLI tool to format JSON payloads, sanitize secrets, and highlight application log levels.",
+  "main": "index.js",
+  "bin": {
+    "logfmt": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "json",
+    "logs",
+    "formatter",
+    "sanitizer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0"
+  }
+}
