@@ -44,7 +44,7 @@ from stdin or disk, at wire speed.**
 ### From source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/log_Fmt.git
+git clone https://github.com/JimmyJames-443/log_Fmt.git
 cd log_Fmt
 npm install
 chmod +x index.js
