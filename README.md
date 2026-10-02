@@ -75,7 +75,7 @@ JSON output uses custom regex lookbehinds and replacements directly on the forma
 Clone the source repository and link the binary globally to system `$PATH`:
 
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/log_Fmt.git](https://github.com/YOUR_GITHUB_USERNAME/log_Fmt.git)
+git clone 
 cd log_Fmt
 npm install
 chmod +x index.js
