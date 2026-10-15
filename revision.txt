@@ -1,0 +1,2 @@
+This is a  simple json formatter giving colours and simple good looking 
+format for logs. Not well tested.
